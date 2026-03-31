@@ -29,5 +29,4 @@ Comments and/or questions
 Submit
 
 Clear form
-
-Never submit passwords through Google Forms.
+.
